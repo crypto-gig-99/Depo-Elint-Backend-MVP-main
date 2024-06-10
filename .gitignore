@@ -1,0 +1,13 @@
+**/node_modules
+**/dist
+*lock.json
+.env
+*-local*
+**/logs/*.*
+dbaconfig.ts*
+**/.ssh/*
+yarn.lock
+
+venv
+cdk.out
+__pycache__
